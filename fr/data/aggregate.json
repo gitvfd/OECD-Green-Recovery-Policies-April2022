@@ -4,55 +4,55 @@
   "children": [
     {
       "name": "Incidence positive",
-      "value": "677",
+      "value": "1090",
 
       "children": [
-        { "name": "Énergie", "value": "184.532" },
-        { "name": "Aviation", "value": "1.4" },
-        { "name": "Transport terrestre", "value": "198.6" },
-        { "name": "Transport maritime", "value": "2.691" },
-        { "name": "Industrie lourde", "value": "29.715" },
-        { "name": "Bâtiment", "value": "61.687" },
-        { "name": "Agriculture", "value": "12.240" },
-        { "name": "Sylviculture", "value": "22.097" },
-        { "name": "Gestion des déchets", "value": "4.174" },
-        { "name": "Autres", "value": "160.301" }
+        { "name": "Énergie", "value": "255.459" },
+        { "name": "Aviation", "value": "26.790" },
+        { "name": "Transport terrestre", "value": "355.953" },
+        { "name": "Transport maritime", "value": "22.500" },
+        { "name": "Industrie lourde", "value": "30.788" },
+        { "name": "Bâtiment", "value": "66.263" },
+        { "name": "Agriculture", "value": "13.062" },
+        { "name": "Sylviculture", "value": "24.346" },
+        { "name": "Gestion des déchets", "value": "4.828" },
+        { "name": "Autres", "value": "290.527" }
       ]
     },
     {
       "name": "Incidence négative & mitigée",
-      "value": "320",
+      "value": "468",
       "children": [
         {
           "name": "Incidence négative",
-          "value": "156",
+          "value": "178",
           "children": [
-            { "name": "Énergie", "value": "37.730" },
-            { "name": "Aviation", "value": "50.944" },
-            { "name": "Transport terrestre", "value": "19.752" },
-            { "name": "Transport maritime", "value": "27" },
-            { "name": "Industrie lourde", "value": "2.617" },
+            { "name": "Énergie", "value": "50.002" },
+            { "name": "Aviation", "value": "53.439" },
+            { "name": "Transport terrestre", "value": "19.777" },
+            { "name": "Transport maritime", "value": "0.029" },
+            { "name": "Industrie lourde", "value": "2.623" },
             { "name": "Bâtiment", "value": "0" },
-            { "name": "Agriculture", "value": "4.196" },
+            { "name": "Agriculture", "value": "10.588" },
             { "name": "Sylviculture", "value": "0" },
             { "name": "Gestion des déchets", "value": "0" },
-            { "name": "Autres", "value": "41.106" }
+            { "name": "Autres", "value": "41.192" }
           ]
         },
         {
           "name": "Incidence mitigée",
-          "value": "163",
+          "value": "290",
           "children": [
-            { "name": "Énergie", "value": "19.051" },
-            { "name": "Aviation", "value": "16.572" },
-            { "name": "Transport terrestre", "value": "20.889" },
-            { "name": "Transport maritime", "value": "23" },
+            { "name": "Énergie", "value": "32.468" },
+            { "name": "Aviation", "value": "17.627" },
+            { "name": "Transport terrestre", "value": "131.906" },
+            { "name": "Transport maritime", "value": "0.025" },
             { "name": "Industrie lourde", "value": "0" },
-            { "name": "Bâtiment", "value": "11.300" },
-            { "name": "Agriculture", "value": "2.538" },
-            { "name": "Sylviculture", "value": "23" },
+            { "name": "Bâtiment", "value": "11.571" },
+            { "name": "Agriculture", "value": "29.561" },
+            { "name": "Sylviculture", "value": "0.024" },
             { "name": "Gestion des déchets", "value": "0" },
-            { "name": "Autres", "value": "92.777" }
+            { "name": "Autres", "value": "67.268" }
           ]
         }
       ]
