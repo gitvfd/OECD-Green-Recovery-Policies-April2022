@@ -21,7 +21,7 @@
 		</div>
 	</div>
 	<!--<div id=intro><b>Explore the environmental implications of announced recovery measures in responses to the COVID-19 crisis! </div>-->
-	<div id="legend">L’incidence des politiques publiques sur l’environnement est illustrée par les couleurs suivantes : <span id="positivelegend" class="dot positive"></span> incidence positive, <span id="negativelegend" class="dot negative"></span> incidence négative, or <span id="mixedlegend" class="dot mixed"></span> ou incidence mitigée.</div>
+	<div id="legend">L’incidence des politiques publiques sur l’environnement est illustrée par les couleurs suivantes : <span id="positivelegend" class="dot positive"></span> incidence positive, <span id="negativelegend" class="dot negative"></span> incidence négative, ou <span id="mixedlegend" class="dot mixed"></span> incidence mitigée.</div>
 	<div id="selCountry">
 			<select id="country_dropdown" onchange="updateCouViz(value)"> 
 				
@@ -371,7 +371,7 @@ function initiateCirclePackCountryChart(){
         .style("font-weight", function() {
           return bold ? "bold" : "normal";
         })
-        .text(function(d){ let label2;if(d.data.value==0) label2 = "" ;else label2= format(d.data.value) + " bn USD"; return label2;});
+        .text(function(d){ let label2;if(d.data.value==0) label2 = "" ;else label2= format(d.data.value) + " milliards USD"; return label2;});
         //.text(d => format(d.data.value) + " bn USD");
 
     zoomTo([root.x, root.y, root.r * 2]);
